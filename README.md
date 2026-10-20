@@ -1,8 +1,9 @@
+项目由DeepSeek辅助制作
 [README.md](https://github.com/user-attachments/files/33728830/README.md)
 # CaiYouJiDongHua# 12 单缸四冲程柴油机 3D 剖面演示
 
 把一台单缸四冲程柴油机做成剖面动画：固定 3/4 机位，曲轴转两圈走完进气—压缩—做功—排气，
-配中文旁白、背景音乐、字幕与 HUD，项目由DeepSeek辅助制作。
+配中文旁白、背景音乐、字幕与 HUD。
 
 ## 现状
 
